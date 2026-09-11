@@ -17,7 +17,7 @@ see_also: research-guarani.md
 
 Ko'ã árape, arapavẽ pu'aka oñemoambue vai ha oñeha'ã avakuéra rembiapo ra'ãha, romoĩ ko Ñe'ẽ.
 
-Ndaha'éi ñemuhára rembiapoukapyicha, ndaha'éi avei amandaje léi pya'e ohasáva ára ndive. Katu ha'e peteĩ **ñe'ẽ ñome'ẽ** oñeñe'ẽva umi ou potáva rendápe, oikuaa hag̃ua mba'érepa oñemoñepyrũ ko tembiapo ha mba'e pyendápepa oñemopyenda térã ho'áta.
+Ndaha'éi ñemuhára tembiapoukapyicha, ndaha'éi avei amandaje léi pya'e ohasáva ára ndive. Katu ha'e peteĩ **ñe'ẽ ñome'ẽ** oñeñe'ẽva umi ou potáva rendápe, oikuaa hag̃ua mba'érepa oñemoñepyrũ ko tembiapo ha mba'e pyendápepa oñemopyenda térã ho'áta.
 
 ## Tenda ha jehepy rehegua
 
