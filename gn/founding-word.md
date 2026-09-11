@@ -17,7 +17,7 @@ see_also: research-guarani.md
 
 Ko'ã árape, arapavẽ pu'aka oñemoambue vai ha oñeha'ã avakuéra rembiapo ra'ãha, romoĩ ko Ñe'ẽ.
 
-Ndaha'éi ñemuhára tembiapoukapyicha, ndaha'éi avei amandaje léi pya'e ohasáva ára ndive. Katu ha'e peteĩ **ñe'ẽ ñome'ẽ** oñeñe'ẽva umi ou potáva rendápe, oikuaa hag̃ua mba'érepa oñemoñepyrũ ko tembiapo ha mba'e pyendápepa oñemopyenda térã ho'áta.
+Ndaha'éi ñemuhára rembiapoukapyicha, ndaha'éi avei amandaje léi pya'e ohasáva ára ndive. Katu ha'e peteĩ **ñe'ẽ ñome'ẽ** oñeñe'ẽva umi ou potáva rendápe, oikuaa hag̃ua mba'érepa oñemoñepyrũ ko tembiapo ha mba'e pyendápepa oñemopyenda térã ho'áta.
 
 ## Tenda ha jehepy rehegua
 
@@ -67,7 +67,7 @@ Ysyry tuja ore réragui. Oikovéta ore ygakuéra ha ore ñe'ẽ rire.
 
 Katu sapy'ami oñeme'ẽ ñane pópe ñangareko hag̃ua. Roguerojaha añetépe hembiporu, romoĩ peteĩ vore hi'yvagui mitã mbo'épe ha ikangýva ñemombaretépe, rombotove yma reko oipe'áva ha kirirĩ, ikatu hag̃uáicha ko tenda oiko **katupyry ha ñeha'arõ ñeñangarekorã**, oñembyatývo yvy ári arai pytũve.
 
-Paraguái oĩ y ha tembiasakue rape mbojáva. Yvóra tuichavéva oñemokangýramamo, ndaha'éi ndaikatúiha tapicha hekosã'ỹva ha ikatupyrýva oñeñongatu ko'ápe yvypóra rembiaporã ra'ỹ — oñemohekovérõ añetépe, katupyrýpe, ha tekojoja jeporúpe.
+Paraguái oĩ y ha tembiasakue rape mbojáva. Yvóra tuichavéva oñemokangýramo, ndaha'éi ndaikatúiha tapicha hekosã'ỹva ha ikatupyrýva oñeñongatu ko'ápe yvypóra rembiaporã ra'ỹ — oñemohekovérõ añetépe, katupyrýpe, ha tekojoja jeporúpe.
 
 Kóva niko tembiaporã.
 
