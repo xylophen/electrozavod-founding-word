@@ -14,8 +14,19 @@ This repository holds the Founding Word of Electrozavod in the tongues of the We
 | [`fr/founding-word.md`](fr/founding-word.md) | French |
 | [`de/founding-word.md`](de/founding-word.md) | German |
 | [`it/founding-word.md`](it/founding-word.md) | Italian |
-| `gn/founding-word.md` | Guaraní (Paraguayan) — researched draft pending specialist review |
+| [`gn/founding-word.md`](gn/founding-word.md) | Guaraní (Paraguayan) — researched draft — pending specialist review |
 | [`gn/RESEARCH.md`](gn/RESEARCH.md) | Notes on Guaraní variety, orthography, and translation approach |
+
+## Legal tone
+
+These four texts are founding instruments of tone — not jurisdictional statute — for Paraguayan counsel to formalize under the law of the Republic. They bind those who draft on behalf of the house to a manner worthy of the covenant. They do not replace that counsel.
+
+| File | Instrument |
+|------|------------|
+| [`legal-tone/00-voice-charter.md`](legal-tone/00-voice-charter.md) | Charter of the Legal Voice |
+| [`legal-tone/01-articles-of-covenant.md`](legal-tone/01-articles-of-covenant.md) | Articles of Covenant |
+| [`legal-tone/02-sample-clauses.md`](legal-tone/02-sample-clauses.md) | Sample Clauses — Rewrite Pack |
+| [`legal-tone/03-glossary.md`](legal-tone/03-glossary.md) | Glossary of Preferred Legal Diction |
 
 ## Charge
 
