@@ -9,11 +9,11 @@ This repository holds the Founding Word of Electrozavod in the tongues of the We
 | File | Language |
 |------|----------|
 | [`en/founding-word.md`](en/founding-word.md) | English (source) |
-| `es/founding-word.md` | Spanish |
-| `pt-BR/founding-word.md` | Portuguese (Brazil) |
-| `fr/founding-word.md` | French |
-| `de/founding-word.md` | German |
-| `it/founding-word.md` | Italian |
+| [`es/founding-word.md`](es/founding-word.md) | Spanish |
+| [`pt-BR/founding-word.md`](pt-BR/founding-word.md) | Portuguese (Brazil) |
+| [`fr/founding-word.md`](fr/founding-word.md) | French |
+| [`de/founding-word.md`](de/founding-word.md) | German |
+| [`it/founding-word.md`](it/founding-word.md) | Italian |
 | `gn/founding-word.md` | Guaraní (Paraguayan) — researched draft pending specialist review |
 | [`gn/RESEARCH.md`](gn/RESEARCH.md) | Notes on Guaraní variety, orthography, and translation approach |
 
