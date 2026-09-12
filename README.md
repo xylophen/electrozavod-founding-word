@@ -4,6 +4,10 @@
 
 This repository holds the Founding Word of Electrozavod in the tongues of the West and in Guaraní, so that none may say it was hidden.
 
+## Genesis
+
+For the conversation-path from which the Word was spoken — thesis, first principles, and cascade analysis — see [`context/00-genesis-and-cascade.md`](context/00-genesis-and-cascade.md). That record is historical context, not a second covenant.
+
 ## Languages
 
 | File | Language |
